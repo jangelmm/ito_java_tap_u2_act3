@@ -1,2 +1,0 @@
-Docente [ nombre=Ricardo, edad=50, genero=m[, telefono=51984894256, nss=asf56465]
-Docente [ nombre=Adelina, edad=30, genero=f[, telefono=158528646, nss=sh79849jf9ej]
