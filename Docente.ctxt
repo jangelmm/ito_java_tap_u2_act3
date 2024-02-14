@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Docente
+comment1.params=nombre\ edad\ genero\ telefono\ nss
+comment1.target=Docente(java.lang.String,\ int,\ char,\ long,\ java.lang.String)
+comment2.params=tel
+comment2.target=void\ setTelefono(long)
+comment3.params=
+comment3.target=long\ getTelefono()
+comment4.params=nss
+comment4.target=void\ setNSS(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNSS()
+numComments=6

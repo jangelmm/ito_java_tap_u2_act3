@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Alumno
+comment1.params=nombre\ edad\ genero\ email\ grupo
+comment1.target=Alumno(java.lang.String,\ int,\ char,\ java.lang.String,\ int)
+comment2.params=email
+comment2.target=void\ setEmail(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=grupo
+comment4.target=void\ setGrupo(int)
+comment5.params=
+comment5.target=int\ getGrupo()
+numComments=6

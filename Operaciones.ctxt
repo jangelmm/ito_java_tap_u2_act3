@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Operaciones
+comment1.params=p
+comment1.target=void\ agregar(Persona)
+comment2.params=p
+comment2.target=void\ eliminar(Persona)
+comment3.params=indice
+comment3.target=void\ eliminar(int)
+comment4.params=nombre
+comment4.target=void\ crearArchivo(java.lang.String)
+numComments=5
