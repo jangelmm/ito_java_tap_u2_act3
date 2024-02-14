@@ -26,5 +26,9 @@ public class Docente extends Persona{
     public String getNSS() {
         return nss;
     }
-    
+
+    @Override
+    public String toString() {
+        return "Docente [ nombre=" + nombre + ", edad=" + edad + ", genero=" +genero + ", telefono=" + telefono + ", nss=" + nss + "]";
+    }
 }

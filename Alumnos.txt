@@ -1,0 +1,2 @@
+Alumno [ nombre=Jesus, edad=20, genero=M, email=ASDFGHJ, grupo=4]
+Alumno [ nombre=Jenny, edad=19, genero=f, email=asdfgh, grupo=4]

@@ -2,11 +2,11 @@
 
 public class Persona {
     // Atributos
-    private static int contadorId = 0;
-    private int id; //Falta tipo de dato
-    private String nombre;
-    private int edad;
-    private char genero;
+    protected static int contadorId = 0;
+    protected int id; //Falta tipo de dato
+    protected String nombre;
+    protected int edad;
+    protected char genero;
     
     // Constructor
     public Persona(String nombre, int edad, char genero) {
@@ -45,6 +45,11 @@ public class Persona {
     }
     public char getGenero() {
         return genero;
+    }
+
+    @Override
+    public String toString() {
+        return "Persona [id=" + id + ", nombre=" + nombre + ", edad=" + edad + ", genero=" + genero + "]";
     }
     
 }

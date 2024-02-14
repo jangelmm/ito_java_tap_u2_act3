@@ -26,5 +26,10 @@ public class Alumno extends Persona {
     public int getGrupo() {
         return grupo;
     }
+
+    @Override
+    public String toString() {
+        return "Alumno [ nombre=" + nombre + ", edad=" + edad + ", genero=" +genero + ", email=" + email + ", grupo=" + grupo + "]";
+    }
     
 }
